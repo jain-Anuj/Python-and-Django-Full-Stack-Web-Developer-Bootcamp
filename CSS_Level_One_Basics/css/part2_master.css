@@ -1,0 +1,14 @@
+body{
+  background-color: orange;
+  }
+
+  div{
+    background-color: green;
+    border-color: blue;
+    border-width: 10px;
+    border-style: dotted;
+  }
+  span{
+    background-color: purple;
+    background: white;
+  }
