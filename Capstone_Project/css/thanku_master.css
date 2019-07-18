@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  background-color: #1D3557;
+  /* border: 15px solid #70C1B3; */
+  border-left: 50px solid #70C1B3;
+  border-bottom: 50px solid #70C1B3;
+  border-right: 50px solid #70C1B3;
+  color: white;
+  font-size: 20px;
+}
