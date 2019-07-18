@@ -1,0 +1,44 @@
+#heading{
+  font-family: 'Bahianita', cursive;
+  text-align: center;
+  font-size: 40px;
+}
+
+#cell1{
+  background-color: #247BA0;
+  width: 150px;
+  height: 200px;
+  border : 10px solid white;
+}
+
+#cell2{
+  background-color: #70C1B3;
+  width: 150px;
+  height: 200px;
+  border : 10px solid white;
+}
+
+#cell3{
+  background-color: #B2DBBF;
+  width: 150px;
+  height: 200px;
+  border : 10px solid white;
+}
+
+#cell4{
+  background-color: #F3FFBD;
+  width: 150px;
+  height: 200px;
+  border : 10px solid white;
+}
+
+#cell5{
+  background-color: #FF1654;
+  width: 150px;
+  height: 200px;
+  border : 10px solid white;
+}
+
+table{
+  margin: auto;
+}
